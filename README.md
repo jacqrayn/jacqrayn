@@ -1,7 +1,7 @@
 # I'm Jacqueline.
 
 * ### Washington, DC 🏛️
-* ### Currently studying **FINTECH**  at George Washington University💰
+* ### Interests: **FINTECH**💰, **DATA ANALYSIS** 📊
 * ### Can code in **PYTHON** 🐍
 
 
