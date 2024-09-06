@@ -1,7 +1,7 @@
 # I'm Jacqueline.
 
 * ### Washington, DC 🏛️
-* ### Interests: **FINTECH**💰, **DATA ANALYSIS** 📊
+* ### Interests: **DATA ANALYSIS** 📊, **FINTECH**💰
 * ### Can code in **PYTHON** 🐍
 
 
